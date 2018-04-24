@@ -51,7 +51,7 @@
 
 ## Research Group Collections
 * [TUM CVG Datasets](https://vision.in.tum.de/data/datasets)
-  * Topics: visual/RGB-D/-inertial odometry, 3D reconstruction
+  * Topics: visual/RGB-D/-inertial odometry/SLAM, 3D reconstruction
 * [Oxford VGG Datasets](http://www.robots.ox.ac.uk/~vgg/data/)
 * [EPFL CVLAB Datasets](https://cvlab.epfl.ch/data)
 * [The Middlebury Computer Vision Pages](http://vision.middlebury.edu/)
