@@ -1,3 +1,5 @@
+{:toc}
+
 ## Dataset Collections
 * Robotics
   * [Radish: The Robotics Data Set Repository](http://radish.sourceforge.net/), Andrew Howard and Nicholas Roy
@@ -85,7 +87,7 @@
   * [ChangeDetection.NET](http://www.changedetection.net/) (a.k.a. CDNET)
 
 
-## Research Group Collections
+## Research Groups
 * Robotics
   * [QUT CyPhy Datasets](https://wiki.qut.edu.au/display/cyphy/Datasets)
     * Tags: visual SLAM, LiDAR SLAM
