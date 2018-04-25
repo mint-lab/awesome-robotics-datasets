@@ -1,4 +1,6 @@
+<div id="inline_toc" markdown="1">
 {:toc}
+</div>
 
 ## Dataset Collections
 * Robotics
