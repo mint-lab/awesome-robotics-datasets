@@ -1,6 +1,7 @@
 * TOC
 {:toc}
 
+
 ## Dataset Collections
 * Robotics
   * [Radish: The Robotics Data Set Repository](http://radish.sourceforge.net/), Andrew Howard and Nicholas Roy
@@ -61,6 +62,13 @@
 
 
 ## Topic-specific Datasets for Computer Vision
+### Features, Saliency, and Foreground
+* Saliency
+  * [MIT Saliency Benchmark](http://saliency.mit.edu/), MIT
+  * [Salient Object Detection: A Benchmark](http://mmcheng.net/salobjbenchmark/), Ming-Ming Cheng
+* Foreground/Change Detection (Background Subtraction)
+  * [ChangeDetection.NET](http://www.changedetection.net/) (a.k.a. CDNET)
+
 ### 3D Vision
 * [Photo Tourism Data](http://phototour.cs.washington.edu/), UW and Microsoft
 * [AdelaideRMF: Robust Model Fitting Data Set](https://cs.adelaide.edu.au/~hwong/doku.php?id=data), Hoi Sim Wong
@@ -79,13 +87,6 @@
   * [Daimler Pedestrian Benchmark Data Sets](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/daimler_pedestrian_benchmark_d.html)
 * Traffic and Surveillance
   * [BEST: Benchmark and Evaluation of Surveillance Task](http://best.sjtu.edu.cn/Data/List/Datasets), SJTU
-
-### Features, Saliency, and Foreground
-* Saliency
-  * [MIT Saliency Benchmark](http://saliency.mit.edu/), MIT
-  * [Salient Object Detection: A Benchmark](http://mmcheng.net/salobjbenchmark/), Ming-Ming Cheng
-* Foreground/Change Detection (Background Subtraction)
-  * [ChangeDetection.NET](http://www.changedetection.net/) (a.k.a. CDNET)
 
 
 ## Research Groups

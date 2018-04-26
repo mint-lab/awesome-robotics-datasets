@@ -1,4 +1,5 @@
 title: Awesome Robotics Datasets
 description: A collection of useful datasets for robotics and computer vision
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
 markdown: kramdown
