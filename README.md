@@ -19,8 +19,7 @@
 ## Place-specific Datasets
 ### Driving Datasets
 * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
-* [MIT DARPA Urban Challenge Dataset](http://grandchallenge.mit.edu/), MIT
-  * Note: Please refer _NEWS!_ to find a link to dataset.
+* [MIT DARPA Urban Challenge Dataset](http://grandchallenge.mit.edu/wiki/index.php?title=PublicData), MIT
 * [KAIST Multi-spectral Recognition Dataset in Day and Night](https://sites.google.com/view/multispectral/), RCV Lab at KAIST
 * [KAIST Urban LiDAR Dataset](http://irap.kaist.ac.kr/dataset/), IRAP Lab at KAIST
 * [Ford Campus Vision and Lidar Data Set](http://robots.engin.umich.edu/SoftwareData/Ford), PeRL at Univ. of Michigan
@@ -30,16 +29,19 @@
 
 ### Flying Datasets
 * [The Zurich Urban Micro Aerial Vehicle Dataset](http://rpg.ifi.uzh.ch/zurichmavdataset.html), RPG at ETHZ
+* [The UZH-FPV Drone Racing Dataset](http://rpg.ifi.uzh.ch/uzh-fpv.html), RPG at ETHZ
+* [MultiDrone Public Dataset](https://multidrone.eu/multidrone-public-dataset/), MultiDrone Project
+* [The Blackbird Dataset](https://github.com/mit-fast/Blackbird-Dataset), AgileDrones Group at MIT
 
 ### Underwater Datasets
 * [Marine Robotics Datasets](http://marine.acfr.usyd.edu.au/datasets/), ACFR
 
 ### Outdoor Datasets
+* [The Rawseeds Project](http://www.rawseeds.org/)
+  * Note: _Bovisa_ dataset is for outdoor and _Bicocca_ dataset is for indoor.
 * [Planetary Mapping and Navigation Datasets](http://asrl.utias.utoronto.ca/datasets/), ASRL at Univ. of Toronto
 
 ### Indoor Datasets
-* [The Rawseeds Project](http://www.rawseeds.org/)
-  * Note: _Bovisa_ dataset is for outdoor and _Bicocca_ dataset is for indoor.
 * [Robotics 2D-Laser Datasets](http://www.ipb.uni-bonn.de/datasets/), Cyrill Stachniss
 * [Long-Term Mobile Robot Operations](http://robotics.researchdata.lncn.eu/), Lincoln Univ.
 * [MIT Stata Center Data Set](http://projects.csail.mit.edu/stata/), Marine Robotics Group at MIT
@@ -59,6 +61,7 @@
 
 ### Path Planning and Navigation
 * [Pathfinding Benchmarks](http://www.movingai.com/benchmarks/), Moving AI Lab at Univ. of Denver
+* [Task and Motion Planner Benchmarking](http://www.neil.dantam.name/2018/rss-tmp-workshop/#benchmarks), RSS 2018 Workshop
 
 
 ## Topic-specific Datasets for Computer Vision
@@ -72,6 +75,7 @@
 ### 3D Vision
 * [Photo Tourism Data](http://phototour.cs.washington.edu/), UW and Microsoft
 * [AdelaideRMF: Robust Model Fitting Data Set](https://cs.adelaide.edu.au/~hwong/doku.php?id=data), Hoi Sim Wong
+* [RGB-D Dataset 7-Scenes](https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/), Microsoft
 * 3D Data Processing
   * [Large Geometric Models Archive](https://www.cc.gatech.edu/projects/large_models/), GATECH
   * [The Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/), Stanford Univ.
@@ -80,13 +84,17 @@
 * [Visual Object Tracking Challenge](http://www.votchallenge.net/) (a.k.a. VOT)
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/) (a.k.a. OTB)
 
-### Object Recognition
-* [Loop Closure Detection](http://cogrob.ensta-paristech.fr/loopclosure.html), David Filliat et. al.
-* [RGB-D Object Dataset](http://rgbd-dataset.cs.washington.edu/), UW
-* Pedestrian
+### Object and Event Recognition
+* Pedestrians
   * [Daimler Pedestrian Benchmark Data Sets](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/daimler_pedestrian_benchmark_d.html)
+* 3D Objects
+  * [RGB-D Object Dataset](http://rgbd-dataset.cs.washington.edu/), UW
+  * [Sweet Pepper and Peduncle 3D Datasets](http://enddl22.net/wordpress/datasets/sweet-pepper-and-peduncle-3d-datasets), InKyu Sa
+* Places
+  * [Loop Closure Detection](http://cogrob.ensta-paristech.fr/loopclosure.html), David Filliat et. al.
 * Traffic and Surveillance
   * [BEST: Benchmark and Evaluation of Surveillance Task](http://best.sjtu.edu.cn/Data/List/Datasets), SJTU
+  * [VIRAT Video Dataset](http://www.viratdata.org/)
 
 
 ## Research Groups
@@ -97,10 +105,10 @@
   * [TUM CVG Datasets](https://vision.in.tum.de/data/datasets)
     * Tags: visual(-inertia) odometry, visual SLAM, 3D reconstruction
   * [Oxford VGG Datasets](http://www.robots.ox.ac.uk/~vgg/data/)
-    * Tags: visual feature, visual recognition, 3D reconstruction
+    * Tags: visual features, visual recognition, 3D reconstruction
   * [EPFL CVLAB Datasets](https://cvlab.epfl.ch/data)
     * Tags: 3D reconstruction, local keypoint, optical flow, RGB-D pedestrian
   * [The Middlebury Computer Vision Pages](http://vision.middlebury.edu/)
     * Tags: stereo matching, 3D reconstruction, MRF, optical flow, color
   * [Caltech CVG Datasets](http://www.vision.caltech.edu/archive.html)
-    * Tags: object (pedestrian, car, face), 3D reconstruction (on turntables)
+    * Tags: objects (pedestrian, car, face), 3D reconstruction (on turntables)
