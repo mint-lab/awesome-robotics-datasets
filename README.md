@@ -87,6 +87,7 @@
 ### Object and Event Recognition
 * Pedestrians
   * [Daimler Pedestrian Benchmark Data Sets](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/daimler_pedestrian_benchmark_d.html)
+  * [CrowdHuman](http://www.crowdhuman.org/)
 * 3D Objects
   * [RGB-D Object Dataset](http://rgbd-dataset.cs.washington.edu/), UW
   * [Sweet Pepper and Peduncle 3D Datasets](http://enddl22.net/wordpress/datasets/sweet-pepper-and-peduncle-3d-datasets), InKyu Sa
