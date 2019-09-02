@@ -19,12 +19,19 @@
 ## Place-specific Datasets
 ### Driving Datasets
 * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
+* [Waymo Open Dataset](https://waymo.com/open), Waymo
+* [AppoloScape Dataset](http://apolloscape.auto/)
+* [Berkely DeepDrive Dataset](https://bdd-data.berkeley.edu/) (BDD100K), BAIR
+* [nuScenes Dataset](https://www.nuscenes.org/), APTIV
+* [$D^2$-City Dataset](https://outreach.didichuxing.com/d2city/d2city), DiDi
+* [Cityscape Dataset](https://www.cityscapes-dataset.com/)
+* [Ford Campus Vision and Lidar Data Set](http://robots.engin.umich.edu/SoftwareData/Ford), PeRL at Univ. of Michigan
 * [MIT DARPA Urban Challenge Dataset](http://grandchallenge.mit.edu/wiki/index.php?title=PublicData), MIT
 * [KAIST Multi-spectral Recognition Dataset in Day and Night](https://sites.google.com/view/multispectral/), RCV Lab at KAIST
-* [KAIST Urban LiDAR Dataset](http://irap.kaist.ac.kr/dataset/), IRAP Lab at KAIST
-* [Ford Campus Vision and Lidar Data Set](http://robots.engin.umich.edu/SoftwareData/Ford), PeRL at Univ. of Michigan
+* [KAIST Urban Dataset](http://irap.kaist.ac.kr/dataset/), IRAP Lab at KAIST
 * [New College Dataset](http://www.robots.ox.ac.uk/NewCollegeData/index.php), MRG at Oxford Univ.
-* [Cityscape Dataset](https://www.cityscapes-dataset.com/)
+* [Chinese Driving from a Bike View](http://www.sujingwang.name/CDBV.html) (CDBV), CAS
+* [CULane Dataset](https://xingangpan.github.io/projects/CULane.html), CUHK
 * [ROMA (ROad MArkings) Image Database](http://perso.lcpc.fr/tarel.jean-philippe/bdd/), Jean-Philippe Tarel et. al.
 
 ### Flying Datasets
